@@ -13,6 +13,7 @@
 
 /*body*/
 .second-div {
+    padding: 50px;
     text-align: center;
     color: white;
 }
@@ -46,7 +47,7 @@ a.nav-link:active
     text-decoration: none;
 } 
 
-div{
+#divA{
     height: 200px;
     padding: 50px;
 }
@@ -96,7 +97,6 @@ p {
     padding: 10px 15px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
     border-bottom: 1px solid black;
 }
 
