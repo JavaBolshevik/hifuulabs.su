@@ -12,7 +12,23 @@
     background-position: center;
 }
 
-#torso{font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-align:center;color:#fff}nav{padding:30px;padding-bottom:100px}nav a{font-weight:700;color:#fff;font-weight:lighter}nav a.router-link-exact-active{color:#fff;font-weight:900}
+#torso{
+    font-family:Avenir,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;
+    text-align:center;
+    color:#fff
+}
+nav{
+    padding:30px;
+    padding-bottom:100px
+}
+nav a{
+    font-weight:700;
+    color:#fff;
+    font-weight:lighter
+}
+    nav a.router-link-exact-active{
+        color:#fff;font-weight:900
+    }
 
 /*body*/
 .second-div {
